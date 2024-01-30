@@ -13,6 +13,6 @@ public class Main {
 
         );
     Graph graph = new Graph(edge);
-    Graph.afficheGraph(graph);
+    graph.afficheGraph();
     }
 }
